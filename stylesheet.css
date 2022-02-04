@@ -17,6 +17,8 @@ header {
 }
 
 h1.header {
+  left: 400px;
+  
   font-weight: bold;
   vertical-align: middle;
 }
