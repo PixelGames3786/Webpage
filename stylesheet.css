@@ -17,6 +17,7 @@ header {
 }
 
 h1.header {
+  width: 100%;
   position: relative;
   left: 400px;
   
