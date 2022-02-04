@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
    background-color: #f0f8ff;               /* 背景色 */
    background-image: url("background.png"); /* 画像 */
