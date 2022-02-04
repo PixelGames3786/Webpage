@@ -38,6 +38,11 @@ header {
   margin: 0 auto;
 }
 
+.logo-ssize {
+  width: 124px;
+  margin-top: 20px;
+}
+
 @keyframes infinity-scroll-left {
   from {
     transform: translateX(0);
@@ -46,3 +51,4 @@ header {
     transform: translateX(-100%);
   }
 }
+
