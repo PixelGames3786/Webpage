@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  background-color: #333631;               /* 背景色 */
+  background-color: #f0f8ff;               /* 背景色 */
   background-image: url("background.png"); /* 画像 */
   background-repeat: repeat;
   
@@ -14,7 +14,7 @@ body {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(255,255,255,0.9);
+  background-color: #333631;
   top: 0;
 }
 
