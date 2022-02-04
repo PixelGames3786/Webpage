@@ -18,11 +18,12 @@ header {
   top: 0;
 }
 
-.title{
-     top: 0;
-     bottom: 0;
-     margin: auto;
-     font-weight: bold;
+.title {
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  font-weight: bold;
+  text-align: center;
 }
 
 .container {
