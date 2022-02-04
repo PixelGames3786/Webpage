@@ -5,9 +5,7 @@
 body {
   margin: 0;
   background-color: #f0f8ff;               /* 背景色 */
-  background-image: url("background.png"); /* 画像 */
-  background-repeat: repeat;
-  
+ 
   font-family: "Hiragino Kaku Gothic ProN";
 }
 
@@ -25,11 +23,11 @@ header {
   left: 30px;
 }
 
-.title {
-  top: 0;
+.header-text {
+  position:relative;
+  
   margin: auto;
-  text-align: center;
-  vertical-align: middle;
+  vertical-align: bottom;
 }
 
 .container {
