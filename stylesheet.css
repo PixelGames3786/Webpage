@@ -19,6 +19,11 @@ header {
   text-align: center;
 }
 
+.bold
+{
+  font-weight: bold;
+}
+
 .container {
   width: 100%;
   padding: 0px 15px;
