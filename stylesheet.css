@@ -38,6 +38,10 @@ header {
   width: 225px;
 }
 
+.p.header {
+  font-weight: bold;
+}
+
 @keyframes infinity-scroll-left {
   from {
     transform: translateX(0);
