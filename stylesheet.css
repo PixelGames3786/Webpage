@@ -21,6 +21,7 @@ header {
   margin: auto;
   text-align: center;
   vertical-align: middle;
+  top: 0;
 }
 
 .container {
