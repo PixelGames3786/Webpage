@@ -5,8 +5,7 @@
 body {
   margin: 0;
   background-color: #f0f8ff;               /* 背景色 */
-  background-image: animation :infinity-scroll-left 95s infinite linear 0.5s both,
-                    url("background.png"); /* 画像 */
+  background-image: url("background.png"); /* 画像 */
   background-repeat: repeat;
   
   font-family: "Hiragino Kaku Gothic ProN";
@@ -18,7 +17,6 @@ header {
   background-color: rgba(255,255,255,0.9);
   top: 0;
   text-align: center;
-  vertical-align: middle;
 }
 
 .container {
