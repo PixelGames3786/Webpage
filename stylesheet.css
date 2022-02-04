@@ -16,7 +16,13 @@ header {
   width: 100%;
   background-color: rgba(255,255,255,0.9);
   top: 0;
-  margin: 0 auto;
+}
+
+.title{
+     position: absolute;
+     top: 0;
+     bottom: 0;
+     margin: auto;
 }
 
 .bold
