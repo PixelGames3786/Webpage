@@ -16,7 +16,7 @@ header {
   top: 0;
 }
 
-p.header {
+h1.header {
   font-weight: bold;
   vertical-align: middle;
 }
