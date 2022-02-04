@@ -19,6 +19,7 @@ header {
 
 p.header {
   font-weight: bold;
+  vertical-align: bottom;
 }
 
 .header-logo {
