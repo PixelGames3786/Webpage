@@ -14,6 +14,7 @@ header {
   width: 100%;
   background-color: #333631;
   top: 0;
+  position :fixed;
 }
 
 .header-logo {
