@@ -7,6 +7,10 @@ body {
   background-color: #f0f8ff;               /* 背景色 */
   background-image: url("background.png"); /* 画像 */
   background-repeat: repeat;
+}
+
+background-image
+{
   animation :infinity-scroll-left 95s infinite linear 0.5s both;
 }
 
