@@ -23,11 +23,8 @@ header {
      top: 0;
      bottom: 0;
      margin: auto;
-}
-
-.bold
-{
-  font-weight: bold;
+     font-weight: bold;
+  
 }
 
 .container {
