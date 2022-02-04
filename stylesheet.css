@@ -19,7 +19,7 @@ header {
 h1.header {
   font-weight: bold;
   vertical-align: middle;
-  text-align: right;
+  float: right;
 }
 
 .header-logo {
