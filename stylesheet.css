@@ -8,11 +8,8 @@ body {
   background-image: animation :infinity-scroll-left 95s infinite linear 0.5s both,
                     url("background.png"); /* 画像 */
   background-repeat: repeat;
-}
-
-background-image
-{
   
+  font-family: "Hiragino Kaku Gothic ProN";
 }
 
 header {
