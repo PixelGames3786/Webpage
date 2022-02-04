@@ -17,6 +17,10 @@ header {
   position :fixed;
 }
 
+p.header {
+  font-weight: bold;
+}
+
 .header-logo {
   float: left;
   position: relative;
@@ -36,10 +40,6 @@ header {
 
 .logo-lsize {
   width: 225px;
-}
-
-.p.header {
-  font-weight: bold;
 }
 
 @keyframes infinity-scroll-left {
