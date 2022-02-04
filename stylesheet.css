@@ -18,7 +18,6 @@ header {
 
 p.header {
   font-weight: bold;
-  vertical-align: text-bottom;
 }
 
 .header-logo {
@@ -30,6 +29,8 @@ p.header {
 
 .header-text {
   float: left;
+  vertical-align: text-bottom;
+  
 }
 
 .container {
