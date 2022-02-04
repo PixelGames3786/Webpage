@@ -25,3 +25,12 @@ header {
   padding: 0px 15px;
   margin: 0 auto;
 }
+
+@keyframes infinity-scroll-left {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
