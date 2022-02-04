@@ -24,8 +24,6 @@ header {
 }
 
 .header-text {
-  position:relative;
-  
   margin: auto;
   vertical-align: bottom;
 }
