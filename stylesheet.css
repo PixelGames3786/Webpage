@@ -24,8 +24,8 @@ header {
 }
 
 .header-text {
-  margin: auto;
-  vertical-align: bottom;
+  float: right;
+  margin-right: -25px;
 }
 
 .container {
