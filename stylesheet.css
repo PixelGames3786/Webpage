@@ -23,6 +23,7 @@ header {
 }
 
 .header-text {
+  font-weight: bold;
 }
 
 .container {
