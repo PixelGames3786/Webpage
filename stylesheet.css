@@ -17,9 +17,6 @@ header {
 }
 
 h1.header {
-  position: absolute;
-  left: 1000px;
-  
   font-weight: bold;
   vertical-align: middle;
 }
