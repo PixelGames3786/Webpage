@@ -28,7 +28,7 @@ span.header {
   left: 200px;
   
   width: 25px;
-  background-color: #dd5268;
+  
 }
 
 .header-text {
@@ -38,6 +38,8 @@ span.header {
   width: 100%;
   padding: 0px 15px;
   margin: 0 auto;
+  
+  background-color: #dd5268;
 }
 
 .logo-lsize {
