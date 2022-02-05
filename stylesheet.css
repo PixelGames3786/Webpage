@@ -16,7 +16,7 @@ header {
   top: 0;
 }
 
-h1.header {
+span.header {
   font-weight: bold;
   vertical-align: middle;
 }
