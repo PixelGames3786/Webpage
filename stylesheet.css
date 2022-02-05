@@ -18,6 +18,7 @@ header {
 
 .header-logo {
   display: inline;
+  position: relative;
   
   vertical-align: bottom;
   
