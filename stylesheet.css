@@ -17,6 +17,7 @@ header {
 }
 
 .header-logo {
+  display: inline;
 }
 
 .header-text {
