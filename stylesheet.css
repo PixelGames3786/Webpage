@@ -20,6 +20,8 @@ header {
   display: inline;
   
   vertical-align: bottom;
+  
+  top: 10px;
 }
 
 .header-text {
