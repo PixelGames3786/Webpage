@@ -23,14 +23,18 @@ header {
   vertical-align: bottom;
   
   top: 10px;
-  left: 500px;
+  left: 350px;
 }
 
 .header-text {
+  position: relative;
+  
   font-size: 50px;
   font-weight: bold;
   
   color: #FFFFFF;
+  
+  left: 350px;
 }
 
 .container {
