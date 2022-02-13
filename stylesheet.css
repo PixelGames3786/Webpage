@@ -57,9 +57,12 @@ header {
 }
 
 .aboutme-text {
+  position: relative;
   display: block;
   
-  font-size: 15px;
+  top: 10px;
+  
+  font-size: 20px;
 }
 
 .aboutme h1 {
