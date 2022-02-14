@@ -72,18 +72,11 @@ header {
 }
 
 .twitter {
-  font-family: FontAwesome;
-  content: '/f099';
-  
   color: #55ACEE;
-  
 }
 
-.twitter::hover {
+.twitter-hover::hover {
   color: #000000;
-  
-  transform: scale(1.3);
-  
 }
 
 .googleplay {
