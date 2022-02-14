@@ -83,7 +83,7 @@ header {
 }
 
 .twitter::hover {
-  color: #000000;
+  opacity: 0.6;
 }
 
 .googleplay {
