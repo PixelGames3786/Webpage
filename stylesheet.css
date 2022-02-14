@@ -107,3 +107,9 @@ header {
   opacity: 0.6;
 }
 
+.box {
+  width: 200px;
+  height: 75px;
+  
+  background-color: #000000;
+}
