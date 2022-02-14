@@ -119,9 +119,10 @@ header {
   
   background-color: #FFFFFF;
   
-  vertical-align: middle;
 }
 
 .product-logo {
   width: 50px;
+  
+  vertical-align: middle
 }
