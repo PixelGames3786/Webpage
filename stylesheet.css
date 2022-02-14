@@ -76,6 +76,12 @@ header {
   content: '\f099';
   
   color: #55ACEE;
+  
+  font-size: 25px;
+}
+
+.twitter::hover {
+  color: #000000;
 }
 
 .googleplay {
