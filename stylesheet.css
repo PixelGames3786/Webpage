@@ -109,8 +109,7 @@ header {
 
 .box {
   box-sizing: border-box;
-  margin: 30px;
-  padding: 10px;
+  padding: 20px;
   
   width: 300px;
   
@@ -119,6 +118,8 @@ header {
   border-radius: 10px;
   
   background-color: #FFFFFF;
+  
+  vertical-align: middle;
 }
 
 .product-logo {
