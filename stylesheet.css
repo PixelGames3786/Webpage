@@ -109,6 +109,7 @@ header {
 
 .box {
   box-sizing: border-box;
+  margin: 5px;
   padding: 20px;
   
   width: 300px;
