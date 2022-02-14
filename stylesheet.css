@@ -76,6 +76,7 @@ header {
   content: '\f099';
   
   desplay: inline-block;
+  text-decoration: none;
   
   color: #55ACEE;
   
