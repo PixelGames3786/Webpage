@@ -73,28 +73,31 @@ header {
 
 .twitter {
   text-decoration: none;
-  
 }
 
 .twitter::before {
   font-family: "Font Awesome 5 Brands";
   content: '\f099';
   
-  desplay: inline-block;
   color: #55ACEE;
   
-  font-size: 25px;
+  font-size: 30px;
 }
 
 .twitter::hover {
   opacity: 0.6;
 }
 
-fa-brands {
+.googleplay {
   text-decoration: none;
-  
 }
 
-.googleplay {
+.googleplay::before {
+  font-family: "Font Awesome 5 Brands";
+  content: '\f3ab';
+  
   color:#00ff7f
+  
+  font-size: 30px;
 }
+
