@@ -71,12 +71,11 @@ header {
   letter-spacing: 3px;
 }
 
-.twitter {
+.twitter::before {
+  font-family: "Font Awesome 5 Brands";
+  content: '\f099';
+  
   color: #55ACEE;
-}
-
-.twitter-hover::hover {
-  color: #000000;
 }
 
 .googleplay {
