@@ -71,13 +71,16 @@ header {
   letter-spacing: 3px;
 }
 
+.twitter {
+  text-decoration: none;
+  
+}
+
 .twitter::before {
   font-family: "Font Awesome 5 Brands";
   content: '\f099';
   
   desplay: inline-block;
-  text-decoration: none;
-  
   color: #55ACEE;
   
   font-size: 25px;
