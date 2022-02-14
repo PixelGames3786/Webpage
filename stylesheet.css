@@ -75,6 +75,10 @@ header {
   color: #55ACEE;
 }
 
+.twitter::hover {
+  color: #000000;
+}
+
 .googleplay {
   color:#00ff7f
 }
