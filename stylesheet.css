@@ -102,3 +102,7 @@ header {
   font-size: 30px;
 }
 
+.googleplay:hover {
+  opacity: 0.6;
+}
+
