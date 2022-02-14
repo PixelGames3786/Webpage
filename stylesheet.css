@@ -75,7 +75,7 @@ header {
   text-decoration: none;
 }
 
-.twitter::before {
+.twitter:before {
   font-family: "Font Awesome 5 Brands";
   content: '\f099';
   
@@ -84,7 +84,7 @@ header {
   font-size: 30px;
 }
 
-.twitter::hover {
+.twitter:hover {
   opacity: 0.6;
 }
 
@@ -92,7 +92,7 @@ header {
   text-decoration: none;
 }
 
-.googleplay::before {
+.googleplay:before {
   font-family: "Font Awesome 5 Brands";
   content: '\f3ab';
   
