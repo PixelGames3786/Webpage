@@ -90,6 +90,11 @@ header {
   opacity: 0.6;
 }
 
+fa-brands {
+  text-decoration: none;
+  
+}
+
 .googleplay {
   color:#00ff7f
 }
