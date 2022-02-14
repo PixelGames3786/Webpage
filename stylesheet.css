@@ -108,6 +108,7 @@ header {
 }
 
 .box {
+  box-sizing: content-box;
   margin: 30px;
   
   width: 300px;
