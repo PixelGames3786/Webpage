@@ -75,6 +75,7 @@ header {
   font-family: "Font Awesome 5 Brands";
   content: '\f099';
   
+  desplay: inline-block;
   text-decoration: none;
   
   color: #55ACEE;
