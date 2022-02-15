@@ -127,6 +127,8 @@ header {
   box-sizing: border-box;
   overflow:scroll;
   
+  text-align: center;
+  
   margin: 10px;
   
   width: 700px;
@@ -136,6 +138,8 @@ header {
   border-radius: 10px;
   
   background-color: #FFFFFF;
+  
+  font-size: 15px;
 }
 
 .product-logo {
