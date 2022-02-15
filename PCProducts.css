@@ -22,9 +22,10 @@ a,a:hover,a:visited{
 }
 
 .header-text {
-  display: block;
+  display: inline-block;
   
   text-align: center;
+  vertical-align: middle;
   
   font-size: 45px;
   
