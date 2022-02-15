@@ -127,8 +127,6 @@ header {
   display: inline-block;
   box-sizing: border-box;
   
-  text-align: center;
-  
   overflow: scroll;
   
   margin: 10px;
