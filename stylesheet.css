@@ -53,6 +53,11 @@ header {
   text-align: center;
 }
 
+.copyright {
+  padding: 150px 0 10px 0;
+  text-align: center;
+}
+
 .aboutme-logo {
   width: 200px;
 }
