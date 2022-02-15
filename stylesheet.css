@@ -124,9 +124,12 @@ header {
 }
 
 .policy-box {
+  display: inline-block;
   box-sizing: border-box;
   
   text-align: center;
+  
+  overflow: scroll;
   
   margin: 10px;
   
@@ -134,7 +137,6 @@ header {
   height: 200px;
   
   border:1px solid #666;
-  border-radius: 10px;
   
   background-color: #FFFFFF;
   
