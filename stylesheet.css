@@ -125,7 +125,6 @@ header {
 
 .policy-box {
   box-sizing: border-box;
-  overflow:scroll;
   
   text-align: center;
   
