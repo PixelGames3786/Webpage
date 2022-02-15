@@ -127,6 +127,8 @@ header {
   border-radius: 10px;
   
   background-color: #FFFFFF;
+  
+  text-decoration: none;
 }
 
 .box:hover {
