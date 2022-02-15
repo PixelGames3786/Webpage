@@ -116,13 +116,12 @@ header {
   width: 350px;
   height: 90px;
   
-  box-shadow: 7px 7px white;
+  box-shadow: 7px 7px;
   border:1px solid #666;
   border-radius: 10px;
   
-  background-color: #333631;
+  background-color: #FFFFFF;
   
-  font-color: #FFFFFF;
 }
 
 .policy-box {
