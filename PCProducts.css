@@ -22,8 +22,9 @@ a,a:hover,a:visited{
 }
 
 .header-text {
-  position: relative;
-  vertical-align: bottom;
+  display: block;
+  
+  text-align: center;
   
   font-size: 45px;
   
