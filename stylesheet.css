@@ -29,6 +29,7 @@ header {
 
 .header-text {
   position: relative;
+  vertical-align: bottom;
   
   font-size: 45px;
   
