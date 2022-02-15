@@ -17,8 +17,8 @@ header {
   top: 0;
 }
 
-a.no-color-change {
-  color: black;
+a,a:hover,a:visited{
+    color: inherit;
 }
 
 .header-logo {
