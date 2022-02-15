@@ -17,6 +17,10 @@ header {
   top: 0;
 }
 
+a.no-color-change {
+  color: black;
+}
+
 .header-logo {
   display: inline;
   position: relative;
@@ -127,8 +131,6 @@ header {
   border-radius: 10px;
   
   background-color: #FFFFFF;
-  
-  text-decoration: none;
 }
 
 .box:hover {
