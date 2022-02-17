@@ -60,7 +60,7 @@ a,a:hover,a:visited{
 
 .description-box {
   box-sizing: border-box;
-  display: block;
+  display: inline-block;
 	
   text-align: center;
   
