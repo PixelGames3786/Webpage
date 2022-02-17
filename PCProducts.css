@@ -82,8 +82,6 @@ a,a:hover,a:visited{
 }
 
 .description-text {
-  display: inline-block;
-	
   vertical-align: middle;
 	
   background-color: #00ff00;
