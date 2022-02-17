@@ -82,7 +82,7 @@ a,a:hover,a:visited{
 }
 
 .description-text {
-  vertical-align: text-top;
+  vertical-align: bottom;
 	
   background-color: #00ff00;
 }
@@ -107,6 +107,8 @@ a,a:hover,a:visited{
 	
   border-radius: 20px;
 }
+
+
 
 *, *:before, *:after {
 	-webkit-box-sizing: border-box;
