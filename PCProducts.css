@@ -152,7 +152,10 @@ a,a:hover,a:visited{
   vertical-align: middle;
 }
 
-
+.ScreenShot {
+  display: block;
+  text-align: center;
+}
 
 
 
