@@ -158,5 +158,7 @@ a,a:hover,a:visited{
 .product-logo {
   width: 50px;
   
+  border-radius: 5px;
+  
   vertical-align: middle;
 }
