@@ -165,12 +165,14 @@ a,a:hover,a:visited{
 	        box-sizing: border-box;
 }
 .cp_cssslider {
-	width: 500px;
+	width: 100%;
 	padding-top: 200px; /* 画像の高さ */
 	position: relative;
 	margin: 2em auto;
 	
 	text-align: center;
+	
+	background-color: #222222;
 }
 .cp_cssslider > img {
 	position: absolute;
