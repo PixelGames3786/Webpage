@@ -83,6 +83,8 @@ a,a:hover,a:visited{
 
 .description-text {
   display: inline-block;
+	
+  margin: auto;
 }
 
 .Back-Button {
