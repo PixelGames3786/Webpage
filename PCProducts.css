@@ -74,7 +74,7 @@ a,a:hover,a:visited{
   letter-spacing: 3px;
 }
 
-.policy-box {
+.description-box {
   display: inline-block;
   box-sizing: border-box;
   
@@ -89,7 +89,7 @@ a,a:hover,a:visited{
   
   font-size: 15px;
 	
-  border-radius:5px;
+  border-radius: 5px;
 }
 
 *, *:before, *:after {
@@ -104,6 +104,7 @@ a,a:hover,a:visited{
 	
 	text-align: center;
 }
+
 .cp_cssslider > img {
   position: absolute;
 
@@ -117,6 +118,7 @@ a,a:hover,a:visited{
   border-radius: 3px;
   box-shadow:0px 0px 5px 0px rgba(0,0,0,0.3);
 }
+
 .cp_cssslider input[name='cp_switch'] {
 	display: none;
 }
