@@ -60,6 +60,8 @@ a,a:hover,a:visited{
 
 .description-box {
   box-sizing: border-box;
+	
+  text-align: center;
   
   margin: 100px 0;
   
