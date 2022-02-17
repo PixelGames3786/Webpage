@@ -120,6 +120,8 @@ a,a:hover,a:visited{
 
 .ScreenShot {
   display: block;
+	
+  margin: 0 auto;
 }
 
 
