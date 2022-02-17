@@ -68,13 +68,14 @@ a,a:hover,a:visited{
   
   width: 800px;
   height: 400px;
+	
+  padding: 10px;
   
   border:1px solid #666;
   
   background-color: #FFFFFF;
   
   font-size: 20px;
-	
   border-radius: 15px;
 }
 
