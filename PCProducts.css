@@ -64,7 +64,7 @@ a,a:hover,a:visited{
 	
   text-align: center;
   
-  margin: 100px 0;
+  margin: 50px 0;
   
   width: 800px;
   height: 400px;
@@ -80,6 +80,7 @@ a,a:hover,a:visited{
 }
 
 .description-text {
+  display: inline;
   vertical-align: bottom;
 	
   background-color: #00ff00;
