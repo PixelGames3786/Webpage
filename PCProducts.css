@@ -80,8 +80,8 @@ a,a:hover,a:visited{
 }
 
 .description-text {
-  display: inline-block;
-  vertical-align: bottom;
+  display: table-cell;
+  vertical-align: middle;
 	
   background-color: #00ff00;
 }
