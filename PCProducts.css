@@ -81,7 +81,7 @@ a,a:hover,a:visited{
 
 .description-text {
   display: table-cell;
-  vertical-align: middle;
+  vertical-align: bottom;
 	
   background-color: #00ff00;
 }
