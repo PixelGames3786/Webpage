@@ -156,9 +156,14 @@ a,a:hover,a:visited{
 }
 
 .product-logo {
+  position:relative;
+  
   width: 50px;
   
   border-radius: 5px;
   
+  text-align: start;
   vertical-align: middle;
+  
+  left: 10px;
 }
