@@ -119,13 +119,7 @@ a,a:hover,a:visited{
 }
 
 .ScreenShot {
-  position: absolute;
-  display: block;
-	
-  margin: 0 auto;
-	
-  width: 200px;
-  height: 200px;
+  
 }
 
 
@@ -144,9 +138,16 @@ a,a:hover,a:visited{
 	background-color: #222222;
 }
 .cp_cssslider > img {
-	transition: all 0.5s;
-	border-radius: 3px;
-	box-shadow:0px 0px 5px 0px rgba(0,0,0,0.3);
+  position: absolute;
+  display: block;
+	
+  margin: 0 auto;
+	
+  width: 200px;
+  height: 200px;
+  transition: all 0.5s;
+  border-radius: 3px;
+  box-shadow:0px 0px 5px 0px rgba(0,0,0,0.3);
 }
 .cp_cssslider input[name='cp_switch'] {
 	display: none;
