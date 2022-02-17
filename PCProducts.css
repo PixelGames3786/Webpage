@@ -122,6 +122,9 @@ a,a:hover,a:visited{
   display: block;
 	
   margin: 0 auto;
+	
+  width: 200px;
+  height: 200px;
 }
 
 
@@ -141,11 +144,7 @@ a,a:hover,a:visited{
 }
 .cp_cssslider > img {
 	position: absolute;
-	left: 0;
 	top: 0;
-	
-	width: 200px;
-	height: 200px;
 	
 	transition: all 0.5s;
 	border-radius: 3px;
