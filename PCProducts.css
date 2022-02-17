@@ -74,54 +74,23 @@ a,a:hover,a:visited{
   letter-spacing: 3px;
 }
 
-.box {
-  display: inline-block;
-  box-sizing: border-box;
-  margin: 10px;
-  padding: 20px;
-  
-  width: 350px;
-  height: 90px;
-  
-  box-shadow: 7px 7px;
-  border:1px solid #666;
-  border-radius: 10px;
-  
-  background-color: #FFFFFF;
-}
-
-.box:hover {
-  opacity: 0.7;
-}
-
 .policy-box {
   display: inline-block;
   box-sizing: border-box;
   
-  overflow: auto;
-  
   margin: 10px;
   
-  width: 700px;
-  height: 200px;
+  width: 800px;
+  height: 300px;
   
   border:1px solid #666;
   
   background-color: #FFFFFF;
   
   font-size: 15px;
+	
+  border-radius:5px;
 }
-
-.product-logo {
-  width: 50px;
-  
-  vertical-align: middle;
-}
-
-.ScreenShot {
-  
-}
-
 
 *, *:before, *:after {
 	-webkit-box-sizing: border-box;
@@ -134,8 +103,6 @@ a,a:hover,a:visited{
 	margin: 0 auto;
 	
 	text-align: center;
-	
-	background-color: #222222;
 }
 .cp_cssslider > img {
   position: absolute;
