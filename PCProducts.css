@@ -139,9 +139,9 @@ a,a:hover,a:visited{
 }
 .cp_cssslider > img {
   position: absolute;
-  display: inline-block;
 
   top: 0;
+  left: 50px;
   margin: 0 auto;
 	
   width: 200px;
