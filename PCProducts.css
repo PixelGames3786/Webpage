@@ -74,40 +74,6 @@ a,a:hover,a:visited{
   letter-spacing: 3px;
 }
 
-.twitter {
-  text-decoration: none;
-}
-
-.twitter:before {
-  font-family: "Font Awesome 5 Brands";
-  content: '\f099';
-  
-  color: #55ACEE;
-  
-  font-size: 30px;
-}
-
-.twitter:hover {
-  opacity: 0.6;
-}
-
-.googleplay {
-  text-decoration: none;
-}
-
-.googleplay:before {
-  font-family: "Font Awesome 5 Brands";
-  content: '\f3ab';
-  
-  color: #00ff7f;
-  
-  font-size: 30px;
-}
-
-.googleplay:hover {
-  opacity: 0.6;
-}
-
 .box {
   display: inline-block;
   box-sizing: border-box;
