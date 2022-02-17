@@ -79,13 +79,6 @@ a,a:hover,a:visited{
   border-radius: 15px;
 }
 
-.description-text {
-  display: table-cell;
-  vertical-align: bottom;
-	
-  background-color: #ff0000;
-}
-
 .Back-Button {
   text-align: center;
 	
