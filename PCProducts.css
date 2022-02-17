@@ -119,6 +119,7 @@ a,a:hover,a:visited{
 }
 
 .ScreenShot {
+  position: absolute;
   display: block;
 	
   margin: 0 auto;
