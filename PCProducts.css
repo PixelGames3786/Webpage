@@ -84,6 +84,8 @@ a,a:hover,a:visited{
 .description-text {
   display: inline-block;
 	
+  vertical-align: middle;
+	
   margin: auto;
 }
 
