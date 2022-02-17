@@ -143,9 +143,6 @@ a,a:hover,a:visited{
 	background-color: #222222;
 }
 .cp_cssslider > img {
-	position: absolute;
-	top: 0;
-	
 	transition: all 0.5s;
 	border-radius: 3px;
 	box-shadow:0px 0px 5px 0px rgba(0,0,0,0.3);
