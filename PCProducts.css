@@ -81,6 +81,10 @@ a,a:hover,a:visited{
   border-radius: 15px;
 }
 
+.description-text {
+  display: inline-block;
+}
+
 .Back-Button {
   text-align: center;
 	
