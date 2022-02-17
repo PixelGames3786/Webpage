@@ -61,12 +61,7 @@ a,a:hover,a:visited{
 .description-box {
   box-sizing: border-box;
   
-  text-align: center;
-  vertical-align: middle;
-	
-  display: inline-block;
-  
-  margin: 100px;
+  margin: 100px 0;
   
   width: 800px;
   height: 400px;
