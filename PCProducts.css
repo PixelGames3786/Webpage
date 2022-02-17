@@ -30,7 +30,7 @@ a,a:hover,a:visited{
   
   color: #FFFFFF;
   
-  top: 10px;
+  top: 20px;
 }
 
 .container {
@@ -162,10 +162,13 @@ a,a:hover,a:visited{
 	        box-sizing: border-box;
 }
 .cp_cssslider {
+	display: block;
+	
 	width: 300px;
 	padding-top: 200px; /* 画像の高さ */
 	position: relative;
 	margin: 2em auto;
+	
 	text-align: center;
 }
 .cp_cssslider > img {
