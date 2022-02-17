@@ -152,14 +152,6 @@ a,a:hover,a:visited{
   vertical-align: middle;
 }
 
-.ScreenShot {
-  position: absolute;
-	
-  left: 300px;
-}
-
-
-
 
 *, *:before, *:after {
 	-webkit-box-sizing: border-box;
@@ -182,6 +174,7 @@ a,a:hover,a:visited{
 	
 	width: 200px;
 	height: 200px;
+	
 	transition: all 0.5s;
 	border-radius: 3px;
 	box-shadow:0px 0px 5px 0px rgba(0,0,0,0.3);
