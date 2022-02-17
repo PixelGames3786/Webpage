@@ -37,6 +37,8 @@ a,a:hover,a:visited{
   width: 100%;
   padding: 0px 15px;
   margin: 0 auto;
+	
+  text-align: center;
 }
 
 .logo-lsize {
