@@ -141,6 +141,7 @@ a,a:hover,a:visited{
   position: absolute;
   display: inline-block;
 
+  top: 0;
   margin: 0 auto;
 	
   width: 200px;
