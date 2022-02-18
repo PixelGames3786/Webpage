@@ -85,8 +85,8 @@ a,a:hover,a:visited{
 
 .twitter {
   object-fit: cover;
-  width: 35px;
-  height: 30px;
+  width: 40px;
+  height: 34px;
   
   transition: all 0.3s;
 }
