@@ -173,7 +173,8 @@ a,a:hover,a:visited{
 }
 .cp_cssslider label img {
 	display: block;
-	width: 40px;
+	width: 54px;
+	height: 96px;
 	border-radius: 2px;
 }
 .cp_cssslider input[name='cp_switch']:checked + label {
