@@ -128,14 +128,7 @@ a,a:hover,a:visited{
   vertical-align: middle;
 }
 
-.button-text: before {
-  font-family: "Font Awesome 5 Brands";
-  content: '\f3ab';
-  
-  color: #00ff7f;
-  
-  font-size: 30px;
-}
+
 
 *, *:before, *:after {
 	-webkit-box-sizing: border-box;
