@@ -79,6 +79,27 @@ a,a:hover,a:visited{
   border-radius: 15px;
 }
 
+.button {
+  text-align: center;
+	
+  display: inline-block;
+	
+  box-sizing: border-box;
+  
+  margin: 10px;
+  
+  width: 300px;
+  height: 70px;
+  
+  border:1px solid #666;
+  
+  background-color: #FFFFFF;
+  
+  font-size: 30px;
+	
+  border-radius: 20px;
+}
+
 .back-button {
   text-align: center;
 	
