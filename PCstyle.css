@@ -87,6 +87,8 @@ a,a:hover,a:visited{
   object-fit: cover;
   width: 30px;
   height: 30px;
+  
+  transition: all 0.3s;
 }
 
 .twitter:before {
@@ -135,6 +137,9 @@ a,a:hover,a:visited{
   border-radius: 10px;
   
   background-color: #FFFFFF;
+  
+  transition: all 0.3s;
+  
 }
 
 .box:hover {
