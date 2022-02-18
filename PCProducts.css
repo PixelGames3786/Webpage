@@ -79,7 +79,7 @@ a,a:hover,a:visited{
   border-radius: 15px;
 }
 
-.Back-Button {
+.back-button {
   text-align: center;
 	
   display: inline-block;
@@ -100,16 +100,7 @@ a,a:hover,a:visited{
   border-radius: 20px;
 }
 
-.button-text: before {
-  font-family: "Font Awesome 5 Brands";
-  content: '\f3ab';
-  
-  color: #00ff7f;
-  
-  font-size: 30px;
-}
-
-.Back-Button: hover {
+.back-button: hover {
   opacity: 0.7;
 }
 
@@ -117,6 +108,15 @@ a,a:hover,a:visited{
   display: inline;
 	
   vertical-align: middle;
+}
+
+.button-text: before {
+  font-family: "Font Awesome 5 Brands";
+  content: '\f3ab';
+  
+  color: #00ff7f;
+  
+  font-size: 30px;
 }
 
 *, *:before, *:after {
