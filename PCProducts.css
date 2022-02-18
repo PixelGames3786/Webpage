@@ -137,15 +137,13 @@ a,a:hover,a:visited{
 	margin: 0 auto;
 	
 	text-align: center;
-	
-	background-color: #222222;
 }
 
 .cp_cssslider > img {
   position: absolute;
 
   top: 0;
-  left: 50px;
+  left: 365px;
 	
   width: 270px;
   height: 480px;
@@ -160,7 +158,8 @@ a,a:hover,a:visited{
 
 /* サムネイル */
 .cp_cssslider label {
-	margin: 15px 5px 0 5px;
+	margin: 15px 10px 0 10px;
+	
 	border: 2px solid #ffffff;
 	display: inline-block;
 	cursor: pointer;
