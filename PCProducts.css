@@ -137,6 +137,8 @@ a,a:hover,a:visited{
 	margin: 0 auto;
 	
 	text-align: center;
+	
+	background-color: #222222;
 }
 
 .cp_cssslider > img {
