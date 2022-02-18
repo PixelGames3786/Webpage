@@ -84,7 +84,8 @@ a,a:hover,a:visited{
 }
 
 .twitter {
-  width:30px;
+  object-fit: cover;
+  width: 30px;
   height: 30px;
 }
 
