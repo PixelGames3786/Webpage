@@ -145,7 +145,7 @@ a,a:hover,a:visited{
   position: absolute;
 
   top: 0;
-  margin: 0 auto;
+  left: 50px;
 	
   width: 270px;
   height: 480px;
