@@ -140,8 +140,9 @@ a,a:hover,a:visited{
   width: 54px;
   height: 96px;
   border-radius: 2px;
-
 }
+
+
 
 *, *:before, *:after {
   -webkit-box-sizing: border-box;
