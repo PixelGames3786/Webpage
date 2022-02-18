@@ -142,7 +142,23 @@ a,a:hover,a:visited{
   border-radius: 2px;
 }
 
+.sp-beside {
+  position: absolute;
 
+  top: 0;
+  left: 365px;
+	
+  width: 480px;
+  height: 270px;
+}
+
+.sp-beside-sam {
+  display: block;
+
+  width: 96px;
+  height: 54px;
+  border-radius: 2px;
+}
 
 *, *:before, *:after {
   -webkit-box-sizing: border-box;
