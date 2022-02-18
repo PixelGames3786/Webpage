@@ -109,6 +109,10 @@ a,a:hover,a:visited{
   font-size: 30px;
 }
 
+.Back-Button: hover {
+  opacity: 0.7;
+}
+
 .button-text {
   display: inline;
 	
