@@ -124,6 +124,18 @@ a,a:hover,a:visited{
   transition: all 0.3s;
 }
 
+.a {
+  position: absolute;
+
+  top: 0;
+  left: 365px;
+	
+  width: 270px;
+  height: 480px;
+  transition: all 0.5s;
+  border-radius: 3px;
+  box-shadow:0px 0px 5px 0px rgba(0,0,0,0.3);
+}
 
 *, *:before, *:after {
 	-webkit-box-sizing: border-box;
@@ -139,16 +151,7 @@ a,a:hover,a:visited{
 }
 
 .cp_cssslider > img {
-  position: absolute;
-
-  top: 0;
-  left: 365px;
-	
-  width: 270px;
-  height: 480px;
-  transition: all 0.5s;
-  border-radius: 3px;
-  box-shadow:0px 0px 5px 0px rgba(0,0,0,0.3);
+  
 }
 
 .cp_cssslider input[name='cp_switch'] {
