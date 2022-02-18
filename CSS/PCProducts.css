@@ -135,8 +135,12 @@ a,a:hover,a:visited{
 }
 
 .sp-vertical-sam {
+  display: block;
+
   width: 54px;
   height: 96px;
+  border-radius: 2px;
+
 }
 
 *, *:before, *:after {
@@ -177,9 +181,7 @@ a,a:hover,a:visited{
 	opacity: 0.9;
 }
 .cp_cssslider label img {
-	display: block;
 
-	border-radius: 2px;
 }
 .cp_cssslider input[name='cp_switch']:checked + label {
 	border: 2px solid #FF7043;
