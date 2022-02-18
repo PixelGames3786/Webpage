@@ -112,8 +112,11 @@ a,a:hover,a:visited{
   background-color: #FFFFFF;
   
   font-size: 30px;
+  letter-spacing: 5px;
 	
   border-radius: 20px;
+	
+  transition: all 0.3s;
 }
 
 .back-button:hover {
@@ -121,13 +124,6 @@ a,a:hover,a:visited{
 	
   transition: all 0.3s;
 }
-
-.button-text {
-  display: inline;
-	
-  vertical-align: middle;
-}
-
 
 
 *, *:before, *:after {
