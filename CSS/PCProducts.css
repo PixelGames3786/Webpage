@@ -164,13 +164,21 @@ a,a:hover,a:visited{
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
+
 .cp_cssslider {
   width: 1000px;
-  padding-top: 480px; /* 画像の高さ */
   position: relative;
   margin: 0 auto;
 	
   text-align: center;
+}
+
+.cp-padding-vertical {
+  padding-op: 480px;
+}
+
+.cp-padding-beside {
+  padding-op: 270px;
 }
 
 .cp_cssslider > img {
