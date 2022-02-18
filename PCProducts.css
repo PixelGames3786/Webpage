@@ -131,8 +131,8 @@ a,a:hover,a:visited{
 	        box-sizing: border-box;
 }
 .cp_cssslider {
-	width: 500px;
-	padding-top: 200px; /* 画像の高さ */
+	width: 1000px;
+	padding-top: 540px; /* 画像の高さ */
 	position: relative;
 	margin: 0 auto;
 	
@@ -143,11 +143,10 @@ a,a:hover,a:visited{
   position: absolute;
 
   top: 0;
-  left: 50px;
   margin: 0 auto;
 	
-  width: 200px;
-  height: 200px;
+  width: 960px;
+  height: 540px;
   transition: all 0.5s;
   border-radius: 3px;
   box-shadow:0px 0px 5px 0px rgba(0,0,0,0.3);
