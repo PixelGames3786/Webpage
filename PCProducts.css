@@ -100,7 +100,20 @@ a,a:hover,a:visited{
   border-radius: 20px;
 }
 
+.button-text: before {
+  font-family: "Font Awesome 5 Brands";
+  content: '\f3ab';
+  
+  color: #00ff7f;
+  
+  font-size: 30px;
+}
 
+.button-text {
+  display: inline;
+	
+  vertical-align: middle;
+}
 
 *, *:before, *:after {
 	-webkit-box-sizing: border-box;
