@@ -81,8 +81,8 @@ a,a:hover,a:visited{
 
 .googleplay {
   object-fit: cover;
-  width: 155px;
-  height: 60px;
+  width: 200px;
+  height: 100px;
   
   transition: all 0.3s;
 }
