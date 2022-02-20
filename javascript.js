@@ -9,7 +9,11 @@ $(function(){
       }
     });
     
-    $('beginscrollin').addClass('scrollin');
+    setTimeout(
+    function() 
+    {
+        $('beginscrollin').addClass('scrollin');
+    }, 100);
  
   });
 });
