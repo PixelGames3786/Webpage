@@ -1,5 +1,11 @@
 $(function(){
   
+    setTimeout(
+    function() 
+    {
+        $('.beginscrollin').addClass('scrollin');
+    }, 100);
+  
   $(window).scroll(function (){
     $('.fadein').each(function(){
       var elementTop = $(this).offset().top;
@@ -7,7 +13,7 @@ $(function(){
       var windowHeight = $(window).height();
       if (scroll > elementTop - windowHeight + 100){
         $(this).addClass('scrollin');
-      }
+      };
     });
   });
 });
