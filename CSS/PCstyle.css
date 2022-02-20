@@ -173,3 +173,14 @@ a,a:hover,a:visited{
   
   vertical-align: middle;
 }
+
+.fadein {
+  opacity : 0;
+  transform : translate(0, 50px);
+  transition:all 0.5s;
+}
+
+.fadein.scrollin {
+  opacity : 1;
+  transform : translate(0, 0);
+}
