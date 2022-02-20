@@ -8,5 +8,7 @@ $(function(){
         $(this).addClass('scrollin');
       }
     });
+    
+ 
   });
 });
