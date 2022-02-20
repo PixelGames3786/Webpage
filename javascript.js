@@ -9,6 +9,7 @@ $(function(){
       }
     });
     
+    $('beginscrollin').addClass('scrollin');
  
   });
 });
