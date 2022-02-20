@@ -177,7 +177,7 @@ a,a:hover,a:visited{
 .fadein {
   opacity : 0;
   transform : translate(0, 50px);
-  transition:all 0.5s;
+  transition: all 0.5s;
 }
 
 .fadein.scrollin {
