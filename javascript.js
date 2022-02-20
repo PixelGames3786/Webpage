@@ -1,4 +1,11 @@
 $(function(){
+      
+    setTimeout(
+    function() 
+    {
+        $('beginscrollin').addClass('scrollin');
+    }, 100);
+  
   $(window).scroll(function (){
     $('.fadein').each(function(){
       var elementTop = $(this).offset().top;
@@ -8,12 +15,5 @@ $(function(){
         $(this).addClass('scrollin');
       }
     });
-    
-    setTimeout(
-    function() 
-    {
-        $('beginscrollin').addClass('scrollin');
-    }, 100);
- 
   });
 });
