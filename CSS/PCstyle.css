@@ -180,7 +180,7 @@ a,a:hover,a:visited{
   transition: all 0.5s;
 }
 
-.div.scrollin {
+..scrollin {
   opacity : 1;
   transform : translate(0, 0);
 }
