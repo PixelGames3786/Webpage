@@ -1,18 +1,18 @@
-(window.onload = function() {
+$(function() {
 
   // フェードイン処理
-  jQuery(window).scroll(function (){
-    jQuery('.fadein').each(function(){
-      var winheight = jQuery(window).height();
-      var posi = jQuery(this).offset().top;
-      var scroll = jQuery(window).scrollTop();
+  $(window).scroll(function (){
+    $('.fadein').each(function(){
+      var winheight = $(window).height();
+      var posi = (this).offset().top;
+      var scroll = $(window).scrollTop();
       if (scroll + winheight > posi){
-        jQuery(this).addClass('scrollin');
+        $(this).addClass('scrollin');
       } else {
         //　スクロールで画面上部に戻った際に要素を非表示にしたい場合は、下記の行のコメントを外し有効にしてください。
-        //jQuery(this).removeClass('scrollin');
+        //$(this).removeClass('scrollin');
       }
     });
    });
 
-})(); 
+}); 
