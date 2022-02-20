@@ -1,4 +1,6 @@
-// フェードイン処理
+(window.onload = function() {
+
+  // フェードイン処理
   jQuery(window).scroll(function (){
     jQuery(".fadein").each(function(){
       var winheight = jQuery(window).height();
@@ -12,3 +14,5 @@
       }
     });
    });
+
+})(); 
