@@ -100,7 +100,7 @@ a,a:hover,a:visited{
 .box {
   display: inline-block;
   box-sizing: border-box;
-  margin: 10px;
+  margin: 5px;
   padding: 20px 0;
   
   width: 350px;
@@ -113,7 +113,6 @@ a,a:hover,a:visited{
   background-color: #FFFFFF;
   
   transition: all 0.3s;
-  
 }
 
 .box:hover {
