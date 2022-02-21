@@ -1,6 +1,5 @@
 $(function() {
 
-  
   // フェードイン処理
   $(window).scroll(function (){
     $('.fadein').each(function(){
@@ -14,6 +13,6 @@ $(function() {
         //$(this).removeClass('scrollin');
       }
     });
-  });
+   });
 
 }); 
