@@ -91,36 +91,10 @@ a,a:hover,a:visited{
   transition: all 0.3s;
 }
 
-.twitter:before {
-  font-family: "Font Awesome 5 Brands";
-  content: '\f099';
-  
-  color: #55ACEE;
-  
-  font-size: 30px;
-}
-
 .twitter:hover {
   opacity: 0.6;
   
   transition: all 0.3s;
-}
-
-.googleplay {
-  text-decoration: none;
-}
-
-.googleplay:before {
-  font-family: "Font Awesome 5 Brands";
-  content: '\f3ab';
-  
-  color: #00ff7f;
-  
-  font-size: 30px;
-}
-
-.googleplay:hover {
-  opacity: 0.6;
 }
 
 .box {
