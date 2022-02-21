@@ -1,6 +1,9 @@
 $(function() {
 
-  $('.fadein').each(function(){
+  
+  // フェードイン処理
+  $(window).scroll(function (){
+    $('.fadein').each(function(){
       var winheight = $(window).height();
       var posi = (this).offset().top;
       var scroll = $(window).scrollTop();
@@ -11,9 +14,6 @@ $(function() {
         //$(this).removeClass('scrollin');
       }
     });
-  // フェードイン処理
-  //$(window).scroll(function (){
-    
-  // });
+  });
 
 }); 
