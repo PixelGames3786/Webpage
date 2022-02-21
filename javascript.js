@@ -3,14 +3,11 @@ $(document).ready(function(){
   // フェードイン処理
   $(window).scroll(function (){
     $('.fadein').each(function(){
-      var winheight = $(window).height();
-      var posi = (this).offset().top;
+      var elementTop = $(this).offset().top;
       var scroll = $(window).scrollTop();
-      if (scroll + winheight > posi){
+      var windowHeight = $(window).height();
+      if (scroll > elementTop - windowHeight + 100){
         $(this).addClass('scrollin');
-      } else {
-        //　スクロールで画面上部に戻った際に要素を非表示にしたい場合は、下記の行のコメントを外し有効にしてください。
-        //$(this).removeClass('scrollin');
       }
     });
    });
