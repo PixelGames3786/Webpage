@@ -100,7 +100,6 @@ a,a:hover,a:visited{
 .box {
   display: inline-block;
   box-sizing: border-box;
-  margin: 5px;
   padding: 20px 0;
   
   width: 350px;
