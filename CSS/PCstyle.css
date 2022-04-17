@@ -5,9 +5,9 @@
 body {
   margin: 0;
   
-  background:-moz-linear-gradient(top,#f0f8ff 70%,#4169e1);/* Firefox */
-  background:-webkit-linear-gradient(top,#f0f8ff 70%,#4169e1);/* safari Chrome */
-  background:-ms-linear-gradient(top,#f0f8ff 70%,#4169e1);/* IE */
+  background:-moz-linear-gradient(top,#f0f8ff 95%,#4169e1);/* Firefox */
+  background:-webkit-linear-gradient(top,#f0f8ff 95%,#4169e1);/* safari Chrome */
+  background:-ms-linear-gradient(top,#f0f8ff 95%,#4169e1);/* IE */
   
   font-family: "Hiragino Kaku Gothic ProN";
   
