@@ -23,11 +23,11 @@ header {
   vertical-align: bottom;
   
   top: 20px;
-  left:calc(50%-50px);
+  left:calc(100%-50px);
 }
 
 .header-text {
-    display:inline-block;
+  display:inline-block;
   position: relative;
   vertical-align: bottom;
   
