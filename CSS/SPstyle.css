@@ -7,7 +7,6 @@ body {
   background-color: #f0f8ff;               /* 背景色 */
  
   font-family: "Hiragino Kaku Gothic ProN";
-  
 }
 
 header {
@@ -28,6 +27,7 @@ header {
 }
 
 .header-text {
+    display:inline-block;
   position: relative;
   vertical-align: bottom;
   
@@ -45,7 +45,7 @@ header {
 }
 
 .logo-lsize {
-  width: 180px;
+  width: 120px;
 }
 
 .aboutme {
