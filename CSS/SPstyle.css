@@ -35,7 +35,8 @@ header {
   
   color: #FFFFFF;
   
-  left: 80px;
+  top:5px;
+  left: calc(50% - 122px);
 }
 
 .container {
@@ -165,7 +166,7 @@ header {
     transition: all 0.5s;
 }
 
-    .fadein.scrollin {
-        opacity: 1;
-        transform: translate(0, 0);
-    }
+.fadein.scrollin {
+    opacity: 1;
+    transform: translate(0, 0);
+}
