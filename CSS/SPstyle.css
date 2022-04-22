@@ -80,20 +80,15 @@ header {
 }
 
 .twitter {
-  text-decoration: none;
-}
-
-.twitter:before {
-  font-family: "Font Awesome 5 Brands";
-  content: '\f099';
-  
-  color: #55ACEE;
-  
-  font-size: 30px;
+    object-fit: cover;
+    width: 32px;
+    height: 26px;
+    transition: all 0.3s;
 }
 
 .twitter:hover {
-  opacity: 0.6;
+    opacity: 0.6;
+    transition: all 0.3s;
 }
 
 .googleplay {
@@ -114,20 +109,25 @@ header {
 }
 
 .box {
-  display: inline-block;
-  box-sizing: border-box;
-  margin: 10px;
-  padding: 20px;
-  
-  width: 350px;
-  height: 90px;
-  
-  box-shadow: 7px 7px;
-  border:1px solid #666;
-  border-radius: 10px;
-  
-  background-color: #FFFFFF;
-  
+    display: inline-block;
+    box-sizing: border-box;
+
+    margin: 5px;
+    padding: 20px 0;
+    width: 300px;
+    height: 90px;
+
+    box-shadow: 7px 7px;
+    border: 1px solid #666;
+    border-radius: 10px;
+
+    background-color: #FFFFFF;
+    transition: all 0.3s;
+}
+
+.box:hover {
+    opacity: 0.7;
+    transition: all 0.3s;
 }
 
 .policy-box {
@@ -138,7 +138,7 @@ header {
   
   margin: 10px;
   
-  width: 700px;
+  width: 350px;
   height: 200px;
   
   border:1px solid #666;
