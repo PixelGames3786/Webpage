@@ -3,17 +3,18 @@
 }
 
 body {
-	margin: 0;
-	background: -moz-linear-gradient(top,#f0f8ff 99%,#4169e1); /* Firefox */
-	background: -webkit-linear-gradient(top,#f0f8ff 99%,#4169e1); /* safari Chrome */
-	background: -ms-linear-gradient(top,#f0f8ff 99%,#4169e1); /* IE */
+  margin: 0;
+  background:-moz-linear-gradient(top,#f0f8ff 99%,#4169e1);/* Firefox */
+  background:-webkit-linear-gradient(top,#f0f8ff 99%,#4169e1);/* safari Chrome */
+  background:-ms-linear-gradient(top,#f0f8ff 99%,#4169e1);/* IE */
 
-	font-family: "Hiragino Kaku Gothic ProN";
-	text-align: center;
+  font-family: "Hiragino Kaku Gothic ProN";
+  
+  text-align: center;
 }
 
 header {
-  height: 100px;
+  height: 90px;
   width: 100%;
   background-color: #333631;
   top: 0;
@@ -28,7 +29,7 @@ a,a:hover,a:visited{
   
   text-align: center;
   
-  font-size: 45px;
+  font-size: 38px;
   
   color: #FFFFFF;
   
@@ -55,12 +56,8 @@ a,a:hover,a:visited{
 
 .container h1 {
   opacity: 0.8;
-  font-size: 45px;
+  font-size: 30px;
   letter-spacing: 3px;
-}
-
-.productname {
-	font-size:45px;
 }
 
 .description-box {
@@ -71,10 +68,10 @@ a,a:hover,a:visited{
   
   margin: 20px 0;
   
-  width: 800px;
+  width: calc(100% - 20px);
   height: auto;
 	
-  padding: 30px;
+  padding: 20px;
   
   border:1px solid #666;
   
@@ -108,10 +105,10 @@ a,a:hover,a:visited{
   margin: 20px;
   padding: -10px 0 0 0;
   
-  width: 300px;
+  width: 250px;
   height: 70px;
   
-  box-shadow: 7px 7px;
+  box-shadow: 6px 6px;
   border:1px solid #666;
   
   background-color: #FFFFFF;
@@ -133,7 +130,7 @@ a,a:hover,a:visited{
   position: absolute;
 
   top: 0;
-  left: 365px;
+  left: calc(50% - 135px);
 	
   width: 270px;
   height: 480px;
@@ -151,17 +148,18 @@ a,a:hover,a:visited{
   position: absolute;
 
   top: 0;
-  left: 260px;
+    left: calc(50% - 160px);
+
 	
-  width: 480px;
-  height: 270px;
+  width: 320px;
+  height: 180px;
 }
 
 .sp-beside-sam {
   display: block;
 
-  width: 96px;
-  height: 54px;
+  width: 80px;
+  height: 45px;
   border-radius: 2px;
 }
 
@@ -171,7 +169,7 @@ a,a:hover,a:visited{
 }
 
 .cp_cssslider {
-  width: 1000px;
+  width: 100%;
   position: relative;
   margin: 0 auto;
 	
@@ -183,7 +181,7 @@ a,a:hover,a:visited{
 }
 
 .cp-padding-beside {
-  padding-top: 270px;
+  padding-top: 180px;
 }
 
 .cp_cssslider > img {
